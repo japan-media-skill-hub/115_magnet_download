@@ -12,7 +12,7 @@ from typing import Any
 
 
 DEFAULT_DESCRIPTION = (
-    "JAV 磁链队列（磁链保存地址：/home/base/javmanager/memory/jav_magnet_queue.toml；"
+    "JAV 磁链队列（磁链保存地址：memory/jav_magnet_queue.toml；"
     "队列内磁链状态统一可标记为 pending/submitted/finished/failed）"
 )
 

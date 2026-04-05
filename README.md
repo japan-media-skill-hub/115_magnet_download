@@ -3,7 +3,7 @@
 该仓库用于发布 `115_magnet_download` 技能的开源版本。
 
 - Skill 目录：`skills/115_magnet_download`
-- 来源：`/home/base/javmanager/active_skills/115_magnet_download`
+- 来源：本地技能库 `active_skills/115_magnet_download`（已做公开化清理）
 
 ## Structure
 
